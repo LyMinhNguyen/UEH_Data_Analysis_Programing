@@ -15,10 +15,11 @@ Dự án này nhằm phân tích các đặc trưng khí tượng và dự đoá
 
 ## Cấu trúc repo
 
-- **/Data**: Thư mục chứa các tập tin dữ liệu được sử dụng trong dự án.
 - **/Code**: Thư mục chứa mã nguồn phân tích và dự đoán.
-- **/Slide**: Thư mục chứa slide thuyết trình của nhóm dự án.
+- **/Data**: Thư mục chứa các tập tin dữ liệu được sử dụng trong dự án.
 - **/Report**: Thư mục chứa file báo cáo toàn bộ dự án.
+- **/Slide**: Thư mục chứa slide thuyết trình của nhóm dự án.
+
 
 ## Giảng viên hướng dẫn
 
